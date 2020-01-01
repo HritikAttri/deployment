@@ -6,6 +6,8 @@ In this section, we use TF-IDF algorithm for feature extraction from text and th
 
 For understanding TF-IDF algorithm, visit my blog [here](https://hritikattri10.wordpress.com/2019/10/12/feature-extraction-using-tf-idf-algorithm/).
 
+For understanding this project, visit my blog [here](https://hritikattri10.wordpress.com/2020/01/01/sentiment-analysis-using-scikit-learn-and-model-deployment-using-flask-and-docker/).
+
 Then, model has been deployed using Flask. We can send requests in the following ways: 
 
 ***1) Using the command line:*** 
